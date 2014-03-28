@@ -1,0 +1,45 @@
+body{
+  background-color:#BDBDBD;
+  width: 600px ;
+  margin-left: 200px;
+  margin-right: 200px ;
+  margin-top: 300px;
+
+} 
+
+ h1{ 
+  font-family: Helvetica;
+  color: #424242;
+  font-size: 28pt;
+  line-height: 150%;
+
+}  
+
+h2{ 
+  font-family: Helvetica;
+  color: #585858 ;
+  font-size: 20pt;
+  line-height: 150%;
+
+} 
+
+h3{
+  color: #555 ;
+  font-size: 12pt;
+  font-family: Helvetica;
+
+
+}  
+
+p{
+  color: #555 ;
+  font-size: 12pt;
+  font-family: Helvetica;
+  line-height: 150%;
+
+
+} 
+
+img{ 
+max-width:800;
+}
